@@ -169,7 +169,7 @@ def two_player_battleship():
       # prints a win if player 1 wins
       print("Player 1 WON!")
 
-# runs the entire function
+# runs the entire two_player_battleship function
 two_player_battleship()
 
 
