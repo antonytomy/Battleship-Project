@@ -1,5 +1,3 @@
-# APCSP Final Project: Battleship
-
 # 2 Player Battleship
 
 import time 
